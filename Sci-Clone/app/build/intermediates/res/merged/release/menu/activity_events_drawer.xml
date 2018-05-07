@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item android:title="Select an Event.">
+
+            <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/home"
+                android:title="Home" />
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cric"
+            android:icon="@drawable/cricket"
+            android:title="     Cric Box" />
+        <item
+                android:id="@+id/nav_extempore"
+                android:icon="@drawable/extempore"
+
+                android:title="     Extempore" />
+            <item
+                android:id="@+id/nav_futsal"
+                android:icon="@drawable/futsal"
+                android:title="     Futsal" />
+            <item
+                android:id="@+id/nav_hunt"
+                android:icon="@drawable/hunt"
+                android:title="     Hunt-Era" />
+
+            <item
+                android:id="@+id/nav_art"
+                android:icon="@drawable/art"
+                android:title="     Poster Making" />
+            <item
+                android:id="@+id/nav_gamer"
+                android:icon="@drawable/game"
+                android:title="     Gamer's Asylum" />
+        <item
+        android:id="@+id/nav_coord"
+        android:icon="@drawable/coord"
+        android:title="     Event Coordinators" />
+            </group>
+
+            <item
+                android:id="@+id/nav_register"
+                android:icon="@drawable/register"
+                android:title="Register" />
+
+    </item>
+        </menu>

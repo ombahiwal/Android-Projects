@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\events.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\menu\\events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_register2_drawer.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\menu\\activity_register2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\science.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\menu\\science.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_events_drawer.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\menu\\activity_events_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_science_drawer.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\menu\\activity_science_drawer.xml"
+    }
+]

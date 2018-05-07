@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Select an Option">
+        <menu>
+            <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/home"
+                android:title="Home" />
+            <item
+                android:id="@+id/nav_science"
+                android:icon="@drawable/science"
+                android:title="Science Exibition" />
+
+            <item
+                android:id="@+id/nav_events"
+                android:icon="@drawable/events"
+                android:title="Events" />
+            <item
+                android:id="@+id/nav_register"
+                android:icon="@drawable/register"
+                android:title="Register" />
+
+
+
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="xyz.omilap.sci_clone.HomeActivity"
+    tools:showIn="@layout/app_bar_home"
+    android:background="@drawable/home_wallpaper">
+
+
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stretchColumns="1"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="59dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="SCI-CLONE-2K17"
+                android:id="@+id/textView26"
+                android:layout_column="1"
+                android:textColor="#ffffff"
+                android:textAlignment="center"
+                android:textSize="40dp"
+                android:background="#8a2a046a" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+</TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"></TableRow>
+
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView28"
+                    android:layout_column="1" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sci-Clone is an Event conducted by the first year (B.Tech) students of Maharashtra Institute of Technology, Aurangabad. The program is organized on the account of National Science Day of India (28 February). "
+                    android:id="@+id/textView27"
+                    android:layout_column="1"
+                    android:textSize="20dp"
+                    android:textAlignment="inherit"
+                    android:textColor="#ffffca" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text=" "
+                    android:id="@+id/textView60"
+                    android:layout_column="1" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="OBJECTIVES-"
+                    android:id="@+id/textView30"
+                    android:layout_column="1"
+                    android:textColor="#ffffca" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:id="@+id/textView331"
+                    android:layout_column="1"
+                    android:textColor="#ffffca" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="To display all the activities, efforts and achievements in the field of science for human welfare. "
+                    android:id="@+id/textView33"
+                    android:layout_column="1"
+                    android:textSize="20dp"
+                    android:textColor="#ffffca" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="To discuss all the issues and implement new technologies for the development of the science."
+                    android:id="@+id/textView31"
+                    android:layout_column="1"
+                    android:textColor="#ffffca"
+                    android:textSize="20dp" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="To give an opportunity to the scientific minded students in the city."
+                    android:id="@+id/textView4531"
+                    android:layout_column="1"
+                    android:textColor="#ffffca"
+                    android:textSize="20dp" />
+            </TableRow> <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=" To encourage the Students as well as popularize the Science and Technology."
+                android:id="@+id/textView5631"
+                android:layout_column="1"
+                android:textColor="#ffffca"
+                android:textSize="20dp" />
+        </TableRow> <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=" "
+                android:id="@+id/textView3177"
+                android:layout_column="1"
+                android:textColor="#ffffca" />
+        </TableRow> <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=" "
+                android:id="@+id/textView3771"
+                android:layout_column="1"
+                android:textColor="#ffffca" />
+        </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="National Science Day is celebrated in India on 28 February each year to mark the discovery of the Raman effect by Indian physicist Sir Chandrashekhara Venkata Raman on 28 February 1930. For his discovery, Raman was awarded the Nobel Prize in Physics in 1930. The theme of the year 2017 is &quot;Science and Technology for Specially Abled Persons&quot;"
+                    android:id="@+id/textView32"
+                    android:layout_column="1"
+                    android:textSize="20dp"
+                    android:textColor="#ffffca" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </TableRow>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView7"
+                android:src="@drawable/raman" />
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Sir C.V. Raman"
+                    android:id="@+id/textView77"
+                    android:layout_column="1"
+                    android:textColor="#ffffca" />
+            </TableRow>
+        </TableLayout>
+
+        </ScrollView>
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Maharashtra Institute of Technology, A&apos;bad"
+        android:id="@+id/textView100"
+        android:textColor="#ffffff"
+        android:layout_above="@+id/textView22"
+        android:layout_centerHorizontal="true"
+        android:background="#c82a046a"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Developed by Omkar Bahiwal"
+        android:id="@+id/textView22"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="12dp"
+        android:textColor="#ffffff"
+        android:background="#c82a046a"
+        android:textStyle="italic"
+        android:textAlignment="center" />
+</RelativeLayout>

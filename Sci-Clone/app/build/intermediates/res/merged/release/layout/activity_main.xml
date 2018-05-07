@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="xyz.omilap.sci_clone.MainActivity"
+    android:background="#333">
+    <include layout="@layout/my_video_background"
+        android:layout_centerVertical="true" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logo4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Developed by Omkar Bahiwal "
+        android:id="@+id/textView3"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="12dp"
+        android:textColor="#bfbfbf" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Maharashtra Institute Of Technology, A&apos;bad."
+        android:id="@+id/textView4"
+        android:layout_above="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:textSize="15dp"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="The Sci-Clone App 1.0.1"
+        android:id="@+id/textView48"
+        android:layout_above="@+id/textView4"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

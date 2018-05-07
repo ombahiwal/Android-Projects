@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hunt.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\hunt.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\register.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\admin.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\admin.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\home.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\raman.jpg",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\raman.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\extempore.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\extempore.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo_ribbon2.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\logo_ribbon2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\game.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\game.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\art.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\art.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mit1.jpg",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\mit1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\app_icn.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\app_icn.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\even.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\even.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\futsal.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\futsal.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo_ribbon.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\logo_ribbon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bulbs.jpg",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\bulbs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\home_wallpaper.jpg",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\home_wallpaper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\newmem.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\newmem.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cricket.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\cricket.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\eventwall.jpg",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\eventwall.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\debate.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\debate.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\science.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\science.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\lan.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\lan.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ball.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\ball.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\coord.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\coord.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\events.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\events.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\paints.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\paints.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo4.png",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\logo4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cricind.jpg",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\cricind.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\detective.gif",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\src\\main\\res\\drawable\\detective.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Sci-Clone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    }
+]
